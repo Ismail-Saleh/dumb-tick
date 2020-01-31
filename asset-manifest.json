@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dumb-tick/static/css/main.a6fe63db.chunk.css",
+    "main.js": "/dumb-tick/static/js/main.9c155187.chunk.js",
+    "main.js.map": "/dumb-tick/static/js/main.9c155187.chunk.js.map",
+    "runtime-main.js": "/dumb-tick/static/js/runtime-main.05a0b716.js",
+    "runtime-main.js.map": "/dumb-tick/static/js/runtime-main.05a0b716.js.map",
+    "static/js/2.629ee5be.chunk.js": "/dumb-tick/static/js/2.629ee5be.chunk.js",
+    "static/js/2.629ee5be.chunk.js.map": "/dumb-tick/static/js/2.629ee5be.chunk.js.map",
+    "index.html": "/dumb-tick/index.html",
+    "precache-manifest.5e00eb64693837aa807d7e3b261260d5.js": "/dumb-tick/precache-manifest.5e00eb64693837aa807d7e3b261260d5.js",
+    "service-worker.js": "/dumb-tick/service-worker.js",
+    "static/css/main.a6fe63db.chunk.css.map": "/dumb-tick/static/css/main.a6fe63db.chunk.css.map",
+    "static/js/2.629ee5be.chunk.js.LICENSE": "/dumb-tick/static/js/2.629ee5be.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05a0b716.js",
+    "static/js/2.629ee5be.chunk.js",
+    "static/css/main.a6fe63db.chunk.css",
+    "static/js/main.9c155187.chunk.js"
+  ]
+}
