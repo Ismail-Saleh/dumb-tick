@@ -1,8 +1,8 @@
 {
-  "homepage": "http://ismail-saleh.github.io/dumb-tick",
   "name": "tick-dumb",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ismail-saleh.github.io/dumb-tick",
   "dependencies": {
     "@material-ui/core": "^4.8.1",
     "@testing-library/jest-dom": "^4.2.4",
@@ -25,12 +25,12 @@
     "thunk": "0.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

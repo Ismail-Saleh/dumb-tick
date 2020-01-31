@@ -13,7 +13,7 @@ import MyEvent from './components/page/mytiket'
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename="/dumb-tick">
 
         <Switch>
             <Route exact path="/" component={Home}/>
